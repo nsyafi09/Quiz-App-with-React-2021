@@ -1,2 +1,2 @@
 # Quiz-App-with-React
-Simple Quiz Application 
+Simple Quiz Web Application 
