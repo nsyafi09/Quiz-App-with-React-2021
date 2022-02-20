@@ -1,0 +1,138 @@
+
+body {
+    // image here
+    background-image: url('../../assets/images/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#home {
+    // // image here
+    // background-image: url('../../assets/images/background.jpg');
+    // background-attachment: fixed;
+    // background-size: cover;
+
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    width: 100vw;
+
+    section {
+        padding: 15px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 15);
+        background-color: rgba(97, 97, 97, 0.349);
+        height: 80%;
+        width: 35%;
+        
+        text-shadow: 0 0 5px rgba(0, 0, 0, 15);
+        border-collapse: collapse; 
+        border-radius: 5px 5px 5px 5px;
+        overflow: hidden;
+    }
+
+    .cube {
+        font-size: 8rem;
+        color: orange;
+    }
+
+    h1 {
+        padding: 5px;
+        margin-bottom: 9%;
+        font-size: 3rem;
+        font-weight: 500;
+        text-align: center;
+        color: white;
+    }
+
+    .play-button-container {
+        width: 95%;
+
+    }
+
+    a.play-button {
+        background-color: rgba(38, 230, 255, 0.767);
+        border: 30px;
+        color: white;
+        display: block;
+        cursor: pointer;
+        padding: 1rem;
+        text-align: center;
+
+        font-size: 35px;
+        overflow: hidden;
+        border-radius: 15px;
+        outline: none;
+        transition: 0.1s linear all;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 15);
+        text-decoration: none;
+    }
+
+    a.play-button:hover {
+        background-color: darken(rgba(38, 230, 255, 0.767), 20%);
+    }
+
+    .auth-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 2.5rem;
+        
+    }
+
+    #login-button {
+        background-color: rgb(255, 42, 42);
+        
+        font-size: 20px;
+        overflow: hidden;
+        border-radius: 15px;
+        outline: none;
+        transition: 0.1s linear all;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 15);
+        text-decoration: none;
+    }
+
+    #login-button:hover {
+        background-color: darken(rgb(255, 42, 42), 20%);
+    }
+
+    #signup-button {
+        background-color: rgba(52, 255, 34, 0.781);
+
+        font-size: 20px;
+        overflow: hidden;
+        border-radius: 15px;
+        outline: none;
+        transition: 0.1s linear all;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 15);
+        text-decoration: none;
+    }
+
+    #signup-button:hover {
+        background-color: darken(rgba(52, 255, 34, 0.781), 20%);
+    }
+
+    .auth-container .auth-buttons {
+        color: white;
+        cursor: pointer;
+        border-radius: 30px;
+        padding: 1rem 0;
+        text-align: center;
+        width: 45%;
+
+        transition: 0.3ms linear all;
+    }
+}
+
+// lg 1024
+// md = 768
+// sm = 641
+// xs = 480
+
+@media (max-width: 768px) {
+    #home section {
+        padding: 0 1rem;
+        width: 100%;
+        height: 100%;
+    }
+}

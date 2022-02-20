@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: auto;
+    font-family: 'Quicksamd', sans-serif;
+}
+
+body {
+    font-family: 'Quicksamd', sans-serif;
+}
+
+.toast-valid {
+    background-color: rgba(26, 145, 26, 0.733) !important;
+    border-radius: 5px !important;
+    color: white !important;
+    float: left;
+    margin-left: 15px;
+    padding: 15px;
+    transition: 0.5ms;
+}
+
+.toast-invalid {
+    background-color: rgba(255, 0, 0, 0.733) !important;
+    border-radius: 5px !important;
+    color: white !important;
+    float: left;
+    margin-left: 15px;
+    padding: 15px;
+    transition: 0.5ms;
+}
+
+.disable {
+    pointer-events: none !important;
+    background-color: rgba(121, 121, 121, 0.719) !important;
+}

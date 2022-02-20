@@ -1,0 +1,136 @@
+[
+    {
+        "question": "Who was the first person in space",
+        "optionA": "Nelson Mandela",
+        "optionB": "Nelson Armstrong",
+        "optionC": "Neil Armstrong",
+        "optionD": "Yuri Gagarin",
+        "answer": "Yuri Gagarin"
+    },
+
+    {
+        "question": "What is the 7th planet of the solar system?",
+        "optionA": "Uranus",
+        "optionB": "Uranium",
+        "optionC": "Urnan",
+        "optionD": "Nelson Armstrong",
+        "answer": "Uranus"
+    },
+
+    {
+        "question": "Who invented the light bulb?",
+        "optionA": "Thomas Edison",
+        "optionB": "Albert Einstein",
+        "optionC": "Neslson Armstrong",
+        "optionD": "Enzo Ferrari",
+        "answer": "Thomas Edison"
+    },
+
+    {
+        "question": "What temperature does water boil at?",
+        "optionA": "50 degrees Celcius",
+        "optionB": "150 degrees Celcius",
+        "optionC": "100 degrees Celcius",
+        "optionD": "Nelson Armstrong",
+        "answer": "100 degrees Celcius"
+    },
+
+    {
+        "question": "What is the name of the toy cowboy in Toy Story?",
+        "optionA": "Woody",
+        "optionB": "Woodpecker",
+        "optionC": "Mickey-g the Mouse",
+        "optionD": "Nelson Armstrong",
+        "answer": "Woody"
+    },
+
+    {
+        "question": "What is the highest-grossing film of all time?",
+        "optionA": "Secret Life of Nelson Armstrong",
+        "optionB": "Dragonballs: Goku Goes to School",
+        "optionC": "Avengers: Endgame",
+        "optionD": "Wizards of Booze",
+        "answer": "Avengers: Endgame"
+    },
+
+    {
+        "question": "J. R. R. Tolkien is famous for which literature work?",
+        "optionA": "Star Trek",
+        "optionB": "Lord of the Rings",
+        "optionC": "Nelson Armstrong's Travel",
+        "optionD": "The Great Gatsby",
+        "answer": "Lord of the Rings"
+    },
+
+    {
+        "question": "What is the world's longest river?",
+        "optionA": "Nile River",
+        "optionB": "Amazon River",
+        "optionC": "Yangtze River",
+        "optionD": "Oberon River",
+        "answer": "Nile River"
+    },
+
+    {
+        "question": "Which galaxy is the closest to ours?",
+        "optionA": "Milky Way Galaxy",
+        "optionB": "Armstrong Galaxy",
+        "optionC": "Evil Eye Galaxy",
+        "optionD": "Andromeda Galaxy",
+        "answer": "Andromeda Galaxy"
+    },
+
+    {
+        "question": "Who painted the Mona Lisa?",
+        "optionA": "Masashi Kishimoto",
+        "optionB": "Twitter artist",
+        "optionC": "Leonardo Da Vinci",
+        "optionD": "Nelson Armstrong",
+        "answer": "Leonardo Da Vinci"
+    },
+
+    {
+        "question": "Billie Jean is a popular song made by who?",
+        "optionA": "Michael Jordan",
+        "optionB": "John Lemon",
+        "optionC": "Nelson Armstrong",
+        "optionD": "Michael Jackson",
+        "answer": "Michael Jackson"
+    },
+
+    {
+        "question": "In which country does adding pinnaples on a Pizza is considered a violation of the highest degree?",
+        "optionA": "Germany",
+        "optionB": "United States",
+        "optionC": "Italy",
+        "optionD": "Canada",
+        "answer": "Italy"
+    },
+
+    {
+        "question": "The game of Football/Soccer is coming to Rome, but which country does it originate from?",
+        "optionA": "Italy",
+        "optionB": "England",
+        "optionC": "Brazil",
+        "optionD": "NA",
+        "answer": "64"
+    },
+
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "optionA": "Marie Curie",
+        "optionB": "Mariah Carey",
+        "optionC": "Nelsonia Armstrong",
+        "optionD": "Marie Antoinette",
+        "answer": "Marie Curie"
+    },
+
+    {
+        "question": "Finally, what was the real treassure?",
+        "optionA": "The friends we made along the way",
+        "optionB": "You didn't need the treasure, the treasure was inside you all along",
+        "optionC": "It's not the destination that matters, but the journey you took to get there",
+        "optionD": "Nelson Armstrong",
+        "answer": "Nelson Armstrong"
+    }
+]
