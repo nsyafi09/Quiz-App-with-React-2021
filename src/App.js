@@ -7,7 +7,6 @@ import QuizInstructions from './components/quiz/QuizInstructions';
 import Play from './components/quiz/Play';
 import QuizSummary from './components/quiz/QuizSummary';
 
-// App.js to route all the other path/pages. The most important part is in Play.js
 function App() {
   return (
     <div className="App">
